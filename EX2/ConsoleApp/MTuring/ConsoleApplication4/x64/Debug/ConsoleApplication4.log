@@ -1,0 +1,2 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Alex\Desktop\Практика C++\EX2\ConsoleApp\MTuring\ConsoleApplication4\ConsoleApplication4.cpp(112): error C4700: использована неинициализированная локальная переменная "width"
